@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Телескоп">
+  <rect x="2" y="2" width="60" height="60" rx="16" fill="#173B75"/>
+  <g fill="none" stroke="#FFFFFF" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M15 23 39 14l6 12-24 9z"/>
+    <path d="m18 21-5 2 6 12 5-2"/>
+    <path d="m39 14 5-2 7 13-6 2"/>
+    <path d="m30 32 8 17"/>
+    <path d="m38 49-11 0"/>
+    <path d="m30 32-9 17"/>
+    <path d="M21 49h20"/>
+  </g>
+  <circle cx="49" cy="13" r="3" fill="#F28C28"/>
+  <path d="m51 5 1.5 3.5L56 10l-3.5 1.5L51 15l-1.5-3.5L46 10l3.5-1.5z" fill="#F28C28"/>
+</svg>
